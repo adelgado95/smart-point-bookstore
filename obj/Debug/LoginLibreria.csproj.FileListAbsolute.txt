@@ -1,0 +1,262 @@
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.config
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.pdb
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\MySql.Data.dll
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csprojResolveAssemblyReference.cache
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Form1.resources
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Properties.Resources.resources
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csproj.GenerateResource.Cache
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.pdb
+c:\users\adelgado\documents\visual studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.MenuPrincipal.resources
+C:\Users\ADelgado\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMVENTAS.resources
+C:\Users\ADelgado\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMENTRADAS.resources
+C:\Users\ADelgado\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMREPORTES.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.config
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.pdb
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.pdb
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csprojResolveAssemblyReference.cache
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Form1.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMENTRADAS.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMREPORTES.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMVENTAS.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.MenuPrincipal.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Properties.Resources.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csproj.GenerateResource.Cache
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FSELECTORPRODUCTO.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTEHOY.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\RdlCompile.cache
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\RdlCompile.compiled
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_DEVOLUCION.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDORMASVENDIDOS.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDOREPORTEMES.resources
+C:\Users\INGRIS\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTETODOS.resources
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.config
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.pdb
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.pdb
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\MySql.Data.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\MySql.Data.xml
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csprojResolveAssemblyReference.cache
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.BUSCAR_CODIGO_PRODUCTO.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTEHOY.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTETODOS.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDOREPORTEMES.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDORMASVENDIDOS.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Form1.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMCREDITO.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMENTRADAS.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMREPORTES.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMVENTAS.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_ACTUALIZAR_STOCK.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_CAMBIO_PASSWORD.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_DEVOLUCION.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_CLIENTE.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_PRODUCTOS.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_PROVEEDOR.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_USUARIOS.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FSELECTORPRODUCTO.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.MenuPrincipal.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Properties.Resources.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_CAJERO.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csproj.GenerateResource.Cache
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\RdlCompile.cache
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\RdlCompile.compiled
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.manifest
+E:\Downloads\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.application
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe.manifest
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.application
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.SELECTORCLIENTE.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FEDITAR.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMABONAR.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMVERPAGOS.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_CLIENTE.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_EMPRESA.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_MARCA.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_PROVEEDORES.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDORDETALLE.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.LISTADOMARCAS.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONSULTARFACTURAS_.resources
+E:\Downloads\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.VER_PRODUCTOS_FACTURA.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.config
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.manifest
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.application
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.pdb
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\bin\Debug\MySql.Data.xml
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.BUSCAR_CODIGO_PRODUCTO.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONSULTARFACTURAS_.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTEHOY.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTETODOS.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDORDETALLE.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDOREPORTEMES.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDORMASVENDIDOS.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FEDITAR.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Form1.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMABONAR.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMCREDITO.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMENTRADAS.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMREPORTES.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMVENTAS.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMVERPAGOS.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_ACTUALIZAR_STOCK.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_CAMBIO_PASSWORD.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_DEVOLUCION.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_CLIENTE.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_PRODUCTOS.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_PROVEEDOR.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_USUARIOS.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FSELECTORPRODUCTO.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_CLIENTE.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_EMPRESA.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_MARCA.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_PROVEEDORES.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.LISTADOMARCAS.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.MenuPrincipal.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Properties.Resources.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_CAJERO.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.SELECTORCLIENTE.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.VER_PRODUCTOS_FACTURA.resources
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csproj.GenerateResource.Cache
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\RdlCompile.cache
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\RdlCompile.compiled
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe.manifest
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.application
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe
+C:\Users\Pedro\Downloads\Compressed\LoginLibreria\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.manifest
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.application
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\MySql.Data.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.BUSCAR_CODIGO_PRODUCTO.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CERRAR_CAJA.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONSULTARFACTURAS_.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTEHOY.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTETODOS.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDORDETALLE.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDOREPORTEMES.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDORMASVENDIDOS.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FEDITAR.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMABONAR.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMCREDITO.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMENTRADAS.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMREPORTES.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMVERPAGOS.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_ACTUALIZAR_STOCK.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_CAMBIO_PASSWORD.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_CANTIDA_CAJA.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_DEVOLUCION.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_BODEGA.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_CLIENTE.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_PRODUCTOS.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_PROVEEDOR.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_TRABAJADORES.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_USUARIOS.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_VER_CAJA.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FSELECTORPRODUCTO.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_CATEGORIA.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_CLIENTE.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_CREDITO.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_EMPRESA.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_MARCA.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_PROVEEDORES.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.LISTADOMARCAS.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.MenuPrincipal.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_CAJERO.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_GASTOS.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_PAGO_TRABAJADOR.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_TRABAJADOR.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.SELECTORCLIENTE.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.VER_PRODUCTOS_FACTURA.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\RdlCompile.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\RdlCompile.compiled
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe.manifest
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.application
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.pdb
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.config
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe.manifest
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.application
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.exe
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LoginLibreria.pdb
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.BUSCAR_CODIGO_PRODUCTO.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CERRAR_CAJA.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONSULTARFACTURAS_.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTEHOY.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.CONTENEDORREPORTETODOS.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDORDETALLE.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDOREPORTEMES.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FCONTENEDORMASVENDIDOS.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FEDITAR.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMABONAR.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMCREDITO.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMENTRADAS.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMREPORTES.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMVENTAS.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORMVERPAGOS.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_ACTUALIZAR_STOCK.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_CAMBIO_PASSWORD.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_CANTIDA_CAJA.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_DEVOLUCION.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_BODEGA.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_CLIENTE.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_PRODUCTOS.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_PROVEEDOR.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_TRABAJADORES.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_LISTAR_USUARIOS.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FORM_VER_CAJA.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.FSELECTORPRODUCTO.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_CATEGORIA.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_CLIENTE.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_CREDITO.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_EMPRESA.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_MARCA.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.INSERTAR_PROVEEDORES.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.LISTADOMARCAS.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.MenuPrincipal.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_CAJERO.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_GASTOS.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_PAGO_TRABAJADOR.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.REGISTRAR_TRABAJADOR.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.SELECTORCLIENTE.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.VER_PRODUCTOS_FACTURA.resources
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe.manifest
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.application
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.exe
+D:\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\obj\Debug\LoginLibreria.form_ventas.resources
+E:\yesse\Documentos\Visual Studio 2015\Projects\LoginLibreria\LoginLibreria\bin\Debug\LibreriaParraJr.exe.config
